@@ -1,0 +1,4 @@
+{'sig_name': 'LV ActivePower (kW)','sig_mapping_name': 'active_power_average'}
+{'sig_name': 'Wind Speed (m/s)', 'sig_mapping_name': 'wind_speed_average'}
+{'sig_name': 'Theoretical_Power_Curve (KWh)','sig_mapping_name': 'theo_power_curve_average'}
+{'sig_name': 'Wind Direction (°)','sig_mapping_name': 'wind_direction_average'}
